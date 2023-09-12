@@ -1,6 +1,3 @@
-Certainly! Here's the updated README.md file with the project structure that includes CONTRIBUTING, CODE_OF_CONDUCT, and LICENSE:
-
-```markdown
 # GitHub Certification Course Final Project
 
 Welcome to the GitHub Certification Course Final Project repository by IBM. This repository was created to showcase the final project for the Git and GitHub certification course offered by IBM.
